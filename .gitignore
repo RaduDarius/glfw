@@ -1,6 +1,6 @@
 # The canonical out-of-tree build subdirectory
-build/
-build-*/
+bin/
+bin-*/
 
 # Visual Studio clutter
 _ReSharper*
